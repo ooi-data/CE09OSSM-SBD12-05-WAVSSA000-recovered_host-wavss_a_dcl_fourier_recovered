@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-SBD12-05-WAVSSA000-recovered_host-wavss_a_dcl_fourier_recovered
 data_stream: CE09OSSM-SBD12-05-WAVSSA000-recovered_host-wavss_a_dcl_fourier_recovered
 end_date: '2021-09-14T12:23:10.454Z'
-last_updated: '2021-12-22T04:57:15.463566'
+last_updated: '2022-01-01T21:32:51.541079Z'
 start_date: '2015-10-15T23:23:04.841Z'
-status: success
+status: pending
